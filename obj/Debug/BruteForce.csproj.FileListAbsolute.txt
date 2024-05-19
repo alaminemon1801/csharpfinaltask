@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\C#_Bruteforce\BruteForce\BruteForce\obj\Debug\BruteForce.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\C#_Bruteforce\BruteForce\BruteForce\obj\Debug\App.g.cs
+C:\Users\Dell\OneDrive\Desktop\C#_Bruteforce\BruteForce\BruteForce\obj\Debug\BruteForce_MarkupCompile.cache
+C:\Users\Dell\OneDrive\Desktop\C#_Bruteforce\BruteForce\BruteForce\bin\Debug\BruteForce.exe.config
+C:\Users\Dell\OneDrive\Desktop\C#_Bruteforce\BruteForce\BruteForce\bin\Debug\BruteForce.exe
+C:\Users\Dell\OneDrive\Desktop\C#_Bruteforce\BruteForce\BruteForce\bin\Debug\BruteForce.pdb
+C:\Users\Dell\OneDrive\Desktop\C#_Bruteforce\BruteForce\BruteForce\obj\Debug\MainWindow.baml
+C:\Users\Dell\OneDrive\Desktop\C#_Bruteforce\BruteForce\BruteForce\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\OneDrive\Desktop\C#_Bruteforce\BruteForce\BruteForce\obj\Debug\BruteForce.g.resources
+C:\Users\Dell\OneDrive\Desktop\C#_Bruteforce\BruteForce\BruteForce\obj\Debug\PasswordResetAPP.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Desktop\C#_Bruteforce\BruteForce\BruteForce\obj\Debug\BruteForce.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\C#_Bruteforce\BruteForce\BruteForce\obj\Debug\BruteForce.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\C#_Bruteforce\BruteForce\BruteForce\obj\Debug\BruteForce.exe
+C:\Users\Dell\OneDrive\Desktop\C#_Bruteforce\BruteForce\BruteForce\obj\Debug\BruteForce.pdb
